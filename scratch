@@ -1,0 +1,14 @@
+<div class="intro">
+<h1>Designer. <br /> Illustrator. <br /> Drawer of Rectangles.</h1>
+<div class="explan">Jay Goggin is a San Francisco based product designer, and currently a senior designer at <a href="www.zenefits.com">Zenefits</a>.  Full case studies and more examples coming soon!</div>
+
+<div class="social">
+
+    <div class="soc"><a href="http://wwww.dribbble.com/jgoo"><img src="img/Dribbble-black.svg" /></a></div>
+      <div class="soc"><a href="http://wwww.dribbble.com/jgoo"><img src="img/behance-logo.svg" style="height: 35px; width: 35px;"/></a></div>
+        <div class="soc"><a href="http://www.facebook.com/jay.goggin"><img src="img/facebook-logo.svg" /></a></div>
+          <div class="soc"><a href="http://www.linkedin.com/in/jaygoggin"><img src="img/linkedin-logo.svg" /></a></div>
+
+</div>
+<button class="btn btn-primary btn-lg" onclick="mailto:jgoggin1@gmail.com">Drop Me a Line</button>
+</div>
